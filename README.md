@@ -14,31 +14,68 @@ Analysing spending habits across demographic groups
 Creating customer profiles and segments based on loyalty, family size, age, and region
 
 # Repository Structure
-instacart-basket-analysis-python/
+15-05-2025_Instacart Basket Analysis
 
-*/data/*                   # Contains raw and cleaned datasets
-- customers.csv
-- orders.csv
-- procuts.csv
-- merged_data.pkl
+*/01_Project Management/*              # Contains Data brief
+- Data_Immersion_Project_Brief.pdf
 
-*/scripts/*                   # Jupyter notebooks for analysis
-- 01. data_import.ipynb
-- 02. data_cleaning.ipynb
-- 03. feature_engineering.ipynb
-- 04. exploratory_analysis.ipynb
-- 05. visulaistaions.ipynb
+*/02_Data/*                            # Contains raw datasets
+- Original Data
+  - customers.csv
+  - orders.csv
+  - products.csv
+  - departments.csv
+  - orders_products_prior.csv
 
-*/exports/*                   # Exported subsets and flags
-- loyal_customers.csv
-- high_spenders.csv
-- family_profiles.csv
+- Prepared Data                        # Contains cleaned datasets 
+  - departments_wrangled.csv
+  - high_activity_customer.pkl
+  - low_activity_cutsomer.pkl
+  - orders_checked.csv
+  - orders_products_combined.pkl
+  - orders_wrangled.csv
+  - ords_prods_all_2_v2.pkl
+  - ords_prods_all.pkl
+  - ords_prod_merge_aggregated.pkl
+  - ords_prods_merge_grouped.pkl
+  - ords_prods_merged_new_variables.pkl
+  - ords_prods_merge.pkl
+  - products_checked.csv
 
-*/outputs/*                   # Reports, visulaisations, and summaries
-- stakeholder_reports.pdf
-- visualistaions/
-  - order_timing_chart.png
-  - department_frequency_chart.png
+*/03. Scripts/*                        # Jupyter notebooks for analysis
+- 4.2 IC Importing Libraries and Python Data Types.ipynb
+- 4.3 IC Data Import and Descriptive Analysis.ipynb
+- 4.4 Data Wrangling.ipynb
+- 4.5 Data Consistency Checks.ipynb
+- 4.6 IC Combining and Exporting Data 01.ipynb
+- 4.6 IC Combining and Exporting Data 02.ipynb
+- 4.6 IC Exercise.ipynb
+- 4.7 Deriving New Variables.ipynb
+- 4.8 IC Grouping Data & Aggregating Variables Exercise.ipynb
+- 4.8 IC Grouping Data & Aggregating Variables Task.ipynb
+- 4.9 IC Intro to Data Visualisation with Python Exercise.ipynb
+- 4.9 IC Intro to Data Visualisation with Python Part 1.ipynb
+- 4.9 IC Intro to Data Visualisation with Python Part 2.ipynb
+- 4.10 IC Coding Etiquette & Excel Reporting.ipynb
+
+*/04. Analysis/*                       # Visulaisations
+- Visulaisations
+  - activity_customer_level.png
+  - bar_loyalty_flag.png
+  - bar_orders_dow1.png
+  - bar_orders_dow2.png
+  - customer_profiles.png
+  - hist_prices_dow1.png
+  - hist_prices_dow2.png
+  - histogram_orders_hod.png
+  - line1_orders_hod.png
+  - line2_orders_dependants.png
+  - profile_region_ct.png
+  - scatter_income.png
+  - spending_by_region.png
+
+*/05. Sent to client/*                 # Report
+- YM_Final_Report.xlsx
 
 ## Dataset Information
 Sources:
