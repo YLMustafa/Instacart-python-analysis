@@ -15,30 +15,30 @@ Creating customer profiles and segments based on loyalty, family size, age, and 
 
 # Repository Structure
 instacart-basket-analysis-python/
-│
-├── /data/                 # Contains raw and cleaned datasets
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── products.csv
-│   └── merged_data.pkl
-│
-├── /scripts/              # Jupyter notebooks for analysis
-│   ├── 01_data_import.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_exploratory_analysis.ipynb
-│   └── 05_visualisations.ipynb
-│
-├── /exports/              # Exported subsets and flags
-│   ├── loyal_customers.csv
-│   ├── high_spenders.csv
-│   └── family_profiles.csv
-│
-├── /outputs/              # Reports, visualizations, and summaries
-│   ├── stakeholder_report.pdf
-│   └── visualisations/
-│       ├── order_timing_chart.png
-│       └── department_frequency_chart.png
+
+*/data/*                   # Contains raw and cleaned datasets
+- customers.csv
+- orders.csv
+- procuts.csv
+- merged_data.pkl
+
+*/scripts/*                   # Jupyter notebooks for analysis
+- 01. data_import.ipynb
+- 02. data_cleaning.ipynb
+- 03. feature_engineering.ipynb
+- 04. exploratory_analysis.ipynb
+- 05. visulaistaions.ipynb
+
+*/exports/*                   # Exported subsets and flags
+- loyal_customers.csv
+- high_spenders.csv
+- family_profiles.csv
+
+*/outputs/*                   # Reports, visulaisations, and summaries
+- stakeholder_reports.pdf
+- visualistaions/
+  - order_timing_chart.png
+  - department_frequency_chart.png
 
 ## Dataset Information
 Sources:
