@@ -19,29 +19,6 @@ Creating customer profiles and segments based on loyalty, family size, age, and 
 */01_Project Management/*              # Contains Data brief
 - Data_Immersion_Project_Brief.pdf
 
-*/02_Data/*                            # Contains raw datasets
-- Original Data
-  - customers.csv
-  - orders.csv
-  - products.csv
-  - departments.csv
-  - orders_products_prior.csv
-
-- Prepared Data                        # Contains cleaned datasets 
-  - departments_wrangled.csv
-  - high_activity_customer.pkl
-  - low_activity_cutsomer.pkl
-  - orders_checked.csv
-  - orders_products_combined.pkl
-  - orders_wrangled.csv
-  - ords_prods_all_2_v2.pkl
-  - ords_prods_all.pkl
-  - ords_prod_merge_aggregated.pkl
-  - ords_prods_merge_grouped.pkl
-  - ords_prods_merged_new_variables.pkl
-  - ords_prods_merge.pkl
-  - products_checked.csv
-
 */03. Scripts/*                        # Jupyter notebooks for analysis
 - 4.2 IC Importing Libraries and Python Data Types.ipynb
 - 4.3 IC Data Import and Descriptive Analysis.ipynb
