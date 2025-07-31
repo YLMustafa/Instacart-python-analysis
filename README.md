@@ -20,20 +20,20 @@ Creating customer profiles and segments based on loyalty, family size, age, and 
 - Data_Immersion_Project_Brief.pdf
 
 **03. Scripts**                       
-- 4.2 IC Importing Libraries and Python Data Types.ipynb
-- 4.3 IC Data Import and Descriptive Analysis.ipynb
-- 4.4 Data Wrangling.ipynb
-- 4.5 Data Consistency Checks.ipynb
-- 4.6 IC Combining and Exporting Data 01.ipynb
-- 4.6 IC Combining and Exporting Data 02.ipynb
-- 4.6 IC Exercise.ipynb
-- 4.7 Deriving New Variables.ipynb
-- 4.8 IC Grouping Data & Aggregating Variables Exercise.ipynb
-- 4.8 IC Grouping Data & Aggregating Variables Task.ipynb
-- 4.9 IC Intro to Data Visualisation with Python Exercise.ipynb
-- 4.9 IC Intro to Data Visualisation with Python Part 1.ipynb
-- 4.9 IC Intro to Data Visualisation with Python Part 2.ipynb
-- 4.10 IC Coding Etiquette & Excel Reporting.ipynb
+- 4.2_IC_Importing_Libraries_and_Python_Data_Types.ipynb
+- 4.3_IC_Data_Import_and_Descriptive_Analysis.ipynb
+- 4.4_IC_Data_Wrangling.ipynb
+- 4.5_IC_Data_Consistency_Checks.ipynb
+- 4.6_IC_Combining_and_Exporting_Data_01.ipynb
+- 4.6_IC_Combining_and_Exporting_Data_02.ipynb
+- 4.6_IC_Exercise.ipynb
+- 4.7_Deriving_New_Variables.ipynb
+- 4.8_IC_Grouping_Data_&_Aggregating_Variables_Exercise.ipynb
+- 4.8_IC_Grouping_Data_&_Aggregating_Variables_Task.ipynb
+- 4.9_IC_Intro_to_Data_Visualisation_with_Python_Exercise.ipynb
+- 4.9_IC_Intro_to_Data_Visualisation_with_Python Part_1.ipynb
+- 4.9_IC_Intro_to_Data_Visualisation_with_Python_Part_2.ipynb
+- 4.10_IC_Coding_Etiquette_&_Excel_Reporting.ipynb
 
 **04. Analysis**                      
 - Visulaisations
