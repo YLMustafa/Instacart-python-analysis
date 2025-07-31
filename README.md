@@ -5,7 +5,7 @@ This project is part of Achievement 4 in the CareerFoundry Data Analytics progra
 
 The project involves cleaning, merging, transforming, and analysing data from multiple sources using Python and Jupyter Notebooks. The analysis is guided by stakeholder questions about customer behaviour, product demand, and order timing.
 
-# Objective
+## Objective
 To perform exploratory data analysis (EDA) and develop actionable insights for marketing and sales teams. The analysis supports a more personalised marketing approach by:
 Identifying high-value customers
 Determining peak ordering times
@@ -13,13 +13,13 @@ Understanding product demand by department
 Analysing spending habits across demographic groups
 Creating customer profiles and segments based on loyalty, family size, age, and region
 
-# Repository Structure
+## Repository Structure
 15-05-2025_Instacart Basket Analysis
 
-## 01_Project Management              # Contains Data brief
+**01_Project Management**              
 - Data_Immersion_Project_Brief.pdf
 
-## 03. Scripts                        # Jupyter notebooks for analysis
+**03. Scripts**                       
 - 4.2 IC Importing Libraries and Python Data Types.ipynb
 - 4.3 IC Data Import and Descriptive Analysis.ipynb
 - 4.4 Data Wrangling.ipynb
@@ -35,7 +35,7 @@ Creating customer profiles and segments based on loyalty, family size, age, and 
 - 4.9 IC Intro to Data Visualisation with Python Part 2.ipynb
 - 4.10 IC Coding Etiquette & Excel Reporting.ipynb
 
-## 04. Analysis                       # Visulaisations
+**04. Analysis**                      
 - Visulaisations
   - activity_customer_level.png
   - bar_loyalty_flag.png
@@ -51,7 +51,7 @@ Creating customer profiles and segments based on loyalty, family size, age, and 
   - scatter_income.png
   - spending_by_region.png
 
-## 05. Sent to client                 # Report
+**05. Sent to client**               
 - YM_Final_Report.xlsx
 
 ## Dataset Information
